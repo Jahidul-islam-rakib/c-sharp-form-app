@@ -1,0 +1,38 @@
+E:\c# repository\atm machine\atm machine\bin\x86\Debug\atm machine.exe.config
+E:\c# repository\atm machine\atm machine\bin\x86\Debug\atm machine.exe
+E:\c# repository\atm machine\atm machine\bin\x86\Debug\atm machine.pdb
+E:\c# repository\atm machine\atm machine\obj\x86\Debug\atm machine.csproj.AssemblyReference.cache
+E:\c# repository\atm machine\atm machine\obj\x86\Debug\atm_machine.account.resources
+E:\c# repository\atm machine\atm machine\obj\x86\Debug\atm_machine.Balance.resources
+E:\c# repository\atm machine\atm machine\obj\x86\Debug\atm_machine.ChangePin.resources
+E:\c# repository\atm machine\atm machine\obj\x86\Debug\atm_machine.Deposit.resources
+E:\c# repository\atm machine\atm machine\obj\x86\Debug\atm_machine.FastCash.resources
+E:\c# repository\atm machine\atm machine\obj\x86\Debug\atm_machine.home.resources
+E:\c# repository\atm machine\atm machine\obj\x86\Debug\atm_machine.MiniStatement.resources
+E:\c# repository\atm machine\atm machine\obj\x86\Debug\atm_machine.Splach.resources
+E:\c# repository\atm machine\atm machine\obj\x86\Debug\atm_machine.login.resources
+E:\c# repository\atm machine\atm machine\obj\x86\Debug\atm_machine.Properties.Resources.resources
+E:\c# repository\atm machine\atm machine\obj\x86\Debug\atm_machine.Withdraw.resources
+E:\c# repository\atm machine\atm machine\obj\x86\Debug\atm machine.csproj.GenerateResource.cache
+E:\c# repository\atm machine\atm machine\obj\x86\Debug\atm machine.csproj.CoreCompileInputs.cache
+E:\c# repository\atm machine\atm machine\obj\x86\Debug\atm machine.exe
+E:\c# repository\atm machine\atm machine\obj\x86\Debug\atm machine.pdb
+E:\c# repository\Project c#\atm machine\atm machine\bin\x86\Debug\atm machine.exe.config
+E:\c# repository\Project c#\atm machine\atm machine\bin\x86\Debug\atm machine.exe
+E:\c# repository\Project c#\atm machine\atm machine\bin\x86\Debug\atm machine.pdb
+E:\c# repository\Project c#\atm machine\atm machine\obj\x86\Debug\atm machine.csproj.AssemblyReference.cache
+E:\c# repository\Project c#\atm machine\atm machine\obj\x86\Debug\atm_machine.account.resources
+E:\c# repository\Project c#\atm machine\atm machine\obj\x86\Debug\atm_machine.Balance.resources
+E:\c# repository\Project c#\atm machine\atm machine\obj\x86\Debug\atm_machine.ChangePin.resources
+E:\c# repository\Project c#\atm machine\atm machine\obj\x86\Debug\atm_machine.Deposit.resources
+E:\c# repository\Project c#\atm machine\atm machine\obj\x86\Debug\atm_machine.FastCash.resources
+E:\c# repository\Project c#\atm machine\atm machine\obj\x86\Debug\atm_machine.home.resources
+E:\c# repository\Project c#\atm machine\atm machine\obj\x86\Debug\atm_machine.MiniStatement.resources
+E:\c# repository\Project c#\atm machine\atm machine\obj\x86\Debug\atm_machine.Splach.resources
+E:\c# repository\Project c#\atm machine\atm machine\obj\x86\Debug\atm_machine.login.resources
+E:\c# repository\Project c#\atm machine\atm machine\obj\x86\Debug\atm_machine.Properties.Resources.resources
+E:\c# repository\Project c#\atm machine\atm machine\obj\x86\Debug\atm_machine.Withdraw.resources
+E:\c# repository\Project c#\atm machine\atm machine\obj\x86\Debug\atm machine.csproj.GenerateResource.cache
+E:\c# repository\Project c#\atm machine\atm machine\obj\x86\Debug\atm machine.csproj.CoreCompileInputs.cache
+E:\c# repository\Project c#\atm machine\atm machine\obj\x86\Debug\atm machine.exe
+E:\c# repository\Project c#\atm machine\atm machine\obj\x86\Debug\atm machine.pdb
